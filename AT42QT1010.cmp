@@ -1,0 +1,115 @@
+Cmp-Mod V01 Genere par PcbNew le mié 23 jul 2014 17:25:48 ART
+
+BeginCmp
+TimeStamp = 53AA0009
+Path = /53A9D4FD
+Reference = U1;
+ValeurCmp = 78L05;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA0026
+Path = /53A9B7D5
+Reference = U2;
+ValeurCmp = MC9S08SH8;
+IdModule  = SOIC-20;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B672D9
+Path = /53A9B7CD
+Reference = C1;
+ValeurCmp = C0.1 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA0040
+Path = /53A9B7CE
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA004D
+Path = /53A9B7D3
+Reference = C2;
+ValeurCmp = 10 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA005A
+Path = /53A9B7D4
+Reference = C3;
+ValeurCmp = 0,1 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA0067
+Path = /53A9C959
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA0074
+Path = /53A9D575
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 53AA00A6
+Path = /53A9CB2D
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B4AEF0
+Path = 
+Reference = GS2;
+ValeurCmp = VAL*;
+IdModule  = GS2;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B4AF03
+Path = 
+Reference = GS2;
+ValeurCmp = VAL*;
+IdModule  = GS2;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B2FC31
+Path = 
+Reference = SOT23;
+ValeurCmp = NTR4503N;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B608C2
+Path = 
+Reference = PIN_ARRAY_4X1;
+ValeurCmp = Val**;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = 53B66EFD
+Path = 
+Reference = SM0805;
+ValeurCmp = Val*;
+IdModule  = SM0805;
+EndCmp
+
+EndListe

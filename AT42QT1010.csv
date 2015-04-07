@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"TO92";1;"78L05";;;
+2;"U2";"SOIC-20";1;"MC9S08SH8";;;
+3;"C1";"SM0805";1;"C0.1 uF";;;
+4;"R1";"SM0805";1;"10K";;;
+5;"C2";"SM0805";1;"10 uF";;;
+6;"C3";"SM0805";1;"0,1 uF";;;
+7;"R2";"SM0805";1;"R";;;
+8;"C4";"SM0805";1;"C";;;
+9;"P2";"PIN_ARRAY_2X1";1;"CONN_2";;;
+10;"GS2,GS2";"GS2";2;"VAL*";;;
+11;"SOT23";"SOT23";1;"NTR4503N";;;
+12;"PIN_ARRAY_4X1";"PIN_ARRAY_4x1";1;"Val**";;;
+13;"SM0805";"SM0805";1;"Val*";;;

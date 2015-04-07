@@ -1,0 +1,161 @@
+PCBNEW-LibModule-V1  mar 01 abr 2014 20:02:09 ART
+# encoding utf-8
+Units mm
+$INDEX
+SOIC-20
+$EndINDEX
+$MODULE SOIC-20
+Po 0 0 0 15 533B44D6 00000000 ~~
+Li SOIC-20
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0.65 0.5 0.5 0 0.125 N V 21 N "SOIC-20"
+T1 0 0 0.5 0.5 0 0.125 N V 21 N "VAL**"
+DS 3.7 0 3.7 -5.13 0.15 21
+DS 3.7 -5.13 -3.7 -5.13 0.15 21
+DS -3.7 -5.13 -3.7 6.32 0.15 21
+DS -3.7 6.32 3.7 6.32 0.15 21
+DS 3.7 6.32 3.7 0 0.15 21
+$PAD
+Sh "4" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -1.27
+$EndPAD
+$PAD
+Sh "3" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -2.54
+$EndPAD
+$PAD
+Sh "2" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -3.81
+$EndPAD
+$PAD
+Sh "1" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "5" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "6" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 1.27
+$EndPAD
+$PAD
+Sh "7" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 2.54
+$EndPAD
+$PAD
+Sh "8" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 3.81
+$EndPAD
+$PAD
+Sh "9" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "10" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "11" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "12" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "13" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 3.81
+$EndPAD
+$PAD
+Sh "14" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 2.54
+$EndPAD
+$PAD
+Sh "15" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 1.27
+$EndPAD
+$PAD
+Sh "16" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "17" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -1.27
+$EndPAD
+$PAD
+Sh "18" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -2.54
+$EndPAD
+$PAD
+Sh "19" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -3.81
+$EndPAD
+$PAD
+Sh "20" R 3.2 0.49 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$EndMODULE SOIC-20
+$EndLIBRARY

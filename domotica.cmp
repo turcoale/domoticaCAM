@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-18 BZR 4017)-stable date = mar 24 jun 2014 19:46:57 ART
+
+BeginCmp
+TimeStamp = /53A9B7CD;
+Reference = C1;
+ValeurCmp = C0.1 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9B7D3;
+Reference = C2;
+ValeurCmp = 10 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9B7D4;
+Reference = C3;
+ValeurCmp = 0,1 uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9D575;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9D5DB;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9B7CF;
+Reference = CON1;
+ValeurCmp = BDM;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9CD9A;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9CB2D;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9C6A7;
+Reference = Q1;
+ValeurCmp = PN2222A;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9B7CE;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9C959;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9D4FD;
+Reference = U1;
+ValeurCmp = 78L05;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A9B7D5;
+Reference = U2;
+ValeurCmp = MC9S08SH8;
+IdModule  = SOIC-20;
+EndCmp
+
+EndListe
